@@ -1,3 +1,0 @@
-Name: Swastika
-Skills: Python, jenkins, java, HTML, CSS, SQL, Matlab, Cyber security fundamentals
-Email: swastikshetty1519@gmail.com
